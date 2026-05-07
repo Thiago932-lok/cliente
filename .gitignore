@@ -1,0 +1,4 @@
+.venv
+*.bd
+*.sqlite
+*.sqlite3
