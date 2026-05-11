@@ -28,7 +28,7 @@ SECRET_KEY = 'django-insecure-qam#js^xc#!aarx*0u07)^2fibrate$#t+-l6e=d7=_2ge_=cy
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ["*"]
 
 ALLOWED_HOSTS = []
 
